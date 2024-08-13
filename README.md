@@ -24,13 +24,13 @@ Search by City: Find weather information by entering a city name.
 Responsive Design: Works on both desktop and mobile devices.
 
 ## Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js, Express.js
-APIs: OpenWeatherMap API (or any other weather API you are using)
-Version Control: Git
+1.Frontend: HTML, CSS, JavaScript
+2.Backend: Node.js, Express.js
+3.APIs: OpenWeatherMap API (or any other weather API you are using)
+4.Version Control: Git
 
 ## Usage
-Open the application in your web browser.
-Enter a city name in the search bar.
-View current weather and a 7-day forecast for the selected location.     
+1.Open the application in your web browser.
+2.Enter a city name in the search bar.
+3.View current weather and a 7-day forecast for the selected location.     
 
