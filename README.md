@@ -11,13 +11,13 @@
 
 **DURATION**  :  JULY TO AUGUST  2024
 
-#WEATHER FORECASTE
+## WEATHER FORECASTE
  
-#Overview
+# Overview
 
 WEATHER FORECASTE is a simple and easy-to-use weather forecasting application. It provides current weather information, a 7-day forecast, and detailed weather data for any location in the world. The application leverages various APIs to deliver accurate and up-to-date weather data.
 
-#Features
+# Features
 
 1.Current Weather: Get real-time weather conditions for any location.
 
@@ -27,7 +27,7 @@ WEATHER FORECASTE is a simple and easy-to-use weather forecasting application. I
 
 4.Responsive Design: Works on both desktop and mobile devices.
 
-#Technologies Used
+# Technologies Used
 
 1.Frontend: HTML, CSS, JavaScript
 
@@ -35,7 +35,7 @@ WEATHER FORECASTE is a simple and easy-to-use weather forecasting application. I
 
 3.APIs: OpenWeatherMap API (or any other weather API you are using)
 
-#Usage
+# Usage
 
 1.Open the application in your web browser.
 
